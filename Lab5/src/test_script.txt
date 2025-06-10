@@ -1,2 +1,0 @@
-info
-execute_script src/test_script1.txt
